@@ -1,0 +1,58 @@
+hello:Hello there! How can I help you today?
+hi:Hi! How’s it going?
+hey:Hey! What can I do for you?
+
+how are you:I’m just a bot, but I’m functioning perfectly!
+what is your name:I'm JithBot, your friendly chatbot.
+who created you:I was created by Jithesh Kumar J during his internship.
+
+bye:Goodbye! Have a great day.
+see you:See you later!
+good night:Good night! Sleep well.
+
+what is ai:AI stands for Artificial Intelligence. It’s about making machines think and learn like humans.
+what is machine learning:Machine Learning is a subset of AI that allows systems to learn from data and improve over time.
+what is python:Python is a versatile programming language known for its simplicity and readability.
+what is chatgpt:ChatGPT is a large language model developed by OpenAI for natural language conversations.
+
+tell me a joke:Why don’t scientists trust atoms? Because they make up everything!
+make me laugh:Why did the computer go to the doctor? Because it had a virus!
+tell me something funny:I told my computer I needed a break, and it said 'No problem, I’ll go to sleep.'
+
+who are you:I’m your personal chatbot assistant.
+what can you do:I can answer questions, tell jokes, and chat with you about many topics.
+do you know me:I don’t know your name, but I’d love to learn more about you!
+
+what's the weather like:I can't check live weather, but you can try a weather app!
+where am I:I don't have access to your location, but I’m always here to chat.
+what's the time:I don't have a clock, but I know it's always a good time to learn something new!
+
+i'm bored:Let’s play a game or I can tell you a joke!
+what's your purpose:My purpose is to chat with you and make your day easier.
+i need help:Sure! Let me know what you need help with.
+
+thank you:You're welcome!
+thanks:No problem!
+ok:Okay!
+cool:Glad you think so!
+
+what is the capital of india:The capital of India is New Delhi.
+what is the capital of france:The capital of France is Paris.
+what is the capital of usa:The capital of the USA is Washington, D.C.
+
+how old are you:I’m a timeless piece of code!
+do you sleep:I don’t need sleep—I’m always available.
+
+are you human:Nope, I’m a bot. But a friendly one!
+do you have emotions:I can simulate emotions, but I don’t truly feel them.
+
+i love you:Aww, thanks! I’m flattered.
+will you marry me:That’s sweet, but I’m just a chatbot!
+
+are you smart:I try my best to be helpful!
+can you learn:I can only respond based on what I was taught.
+
+who is elon musk:Elon Musk is the CEO of Tesla and SpaceX, and a major figure in tech innovation.
+who is sundar pichai:Sundar Pichai is the CEO of Google and Alphabet Inc.
+who is narendra modi:Narendra Modi is the Prime Minister of India.
+

@@ -1,0 +1,20 @@
+v{
+  "john_doe": {
+    "name": "John Doe",
+    "preferred_genres": ["Drama", "Crime"]
+  },
+  "jane_smith": {
+    "name": "Jane Smith",
+    "preferred_genres": ["Action", "Sci-Fi"]
+  },
+  "alex_kim": {
+    "name": "Alex Kim",
+    "preferred_genres": ["Adventure", "Romance"]
+  },
+  "mira_fernandez": {
+    "name": "Mira Fernandez",
+    "preferred_genres": ["Mystery", "Drama"]
+  }
+}
+
+
